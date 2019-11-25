@@ -1,0 +1,3 @@
+/Users/jeronimo/Desktop/8ejercicios/#6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jeronimo/Desktop/8ejercicios/#6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jeronimo/Desktop/8ejercicios/#6/cmake-build-debug/CMakeFiles/_6.dir
