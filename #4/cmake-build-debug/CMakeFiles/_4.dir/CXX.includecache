@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jeronimo/Desktop/8ejercicios/#4/funciones.h
+iostream
+-
+string
+-
+future
+-
+vector
+-
+
+/Users/jeronimo/Desktop/8ejercicios/#4/main.cpp
+iostream
+-
+funciones.h
+/Users/jeronimo/Desktop/8ejercicios/#4/funciones.h
+
